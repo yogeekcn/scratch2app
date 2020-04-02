@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "cn.yogeek.flappybird"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>像素鸟@极客少年</name>
+
+  <description>
+      像素鸟@极客少年
+  </description>
+
+  <author href="https://edu.yogeek.cn" email="50599476@qq.com">
+      极客君
+  </author>
+
+  <icon src='ico.png' />
+</widget>
